@@ -1,0 +1,5 @@
+Model,MSE,RMSE,R2 (test),CV R2 mean,CV R2 std
+Baseline (mean),75.05,8.66,-0.023,-0.011,0.007
+Linear Regression,22.78,4.77,0.689,0.712,0.031
+Decision Tree,8.98,3.0,0.878,0.729,0.131
+Random Forest,8.01,2.83,0.891,0.871,0.031
